@@ -1,0 +1,10 @@
+
+LICENSE
+README.md
+SECURITY.md
+
+.env
+.gitignore
+
+.git/
+__pycache__/
